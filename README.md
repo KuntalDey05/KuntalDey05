@@ -1,4 +1,3 @@
-![logo](https://github.com/KuntalDey05/KuntalDey05/blob/main/kuntal%20dey.png)
 <h1 align="center">Hi 👋, I'm Kuntal Dey</h1>
 <h3 align="center">A 1st Year BTech IT Student</h3>
 
@@ -10,7 +9,7 @@
 
 - 📫 How to reach me **kuntaldey197@gmail.com**
 
-- ⚡ Fun fact **I'm Cool 😎**
+- ⚡ **I'm Cool 😎**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
